@@ -1,6 +1,6 @@
 Data pipeline to process Pattern AG Files
 
-1. You need to keep all your files i.e, crop.csv, weather.csv, spartials.csv, and soil.csv in inputs folder
+1. You need to keep all your files i.e, crop.csv, weather.csv, spartials.csv, and soil.csv inside one folder (e.g. input folder)
 2. Create virtual environment with python with atleast python 3.8 installed.
 3. Activate your virtual environment and install all the depencies with 
     > pip install -r requirements.txt
